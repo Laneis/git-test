@@ -11,7 +11,7 @@ public class FirstClass {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
-        System.out.println("hello git 开发人员");
+        System.out.println("hello git  整合");
         //hello git
     }
 
