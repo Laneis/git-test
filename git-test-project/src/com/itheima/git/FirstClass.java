@@ -20,5 +20,6 @@ public class FirstClass {
         i += 2;
 
         System.out.println(i);
+        System.out.println("分支");
     }
 }
